@@ -1,0 +1,14 @@
+.movie{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 30px;
+    padding: 30px;
+    border: 1px dashed gray;
+    width: 500px;
+}
+
+.movie img{
+    padding-right: 30px;
+    height: 200px;
+    width: auto;
+}
